@@ -15,7 +15,7 @@ uvloop==0.17.0
 watchfiles==0.18.1
 websockets==10.4
 keyring==23.5.0
-numpy==1.23.5
+numpy==1.21.6
 python-decouple==3.8
 python-dotenv==0.21.1
 python-multipart==0.0.6
